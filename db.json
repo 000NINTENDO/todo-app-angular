@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "name": "Welk up",
+      "time": "06:30 AM",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "name": "Morning walk",
+      "time": "06:30 AM",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "name": "Breakfast",
+      "time": "06:30 AM",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "name": "Office time",
+      "time": "09:00 AM",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
